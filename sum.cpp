@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//This project looks like A adding calculator
+//This project looks like A adding calculator.
 int main()
 {
   int a,b;
